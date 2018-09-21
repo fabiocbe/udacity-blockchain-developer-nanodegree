@@ -1,3 +1,5 @@
+## o João ta gordo
+
 ## Project overview
 Keeping the blockchain dataset in an array is expensive to retain in the computer's memory. In addition, inefficient for long term storage.
 
